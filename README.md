@@ -2,7 +2,7 @@
 The SDCAE model is implemented for PHM data. The scripst are public and based on Pytorch.
 
 ## Model and Environment:  
-1. The SDCAE model is revised from the previous wrok:  
+1. The SDCAE model and script are revised from the following previous wrok:  
 https://github.com/ShayanPersonal/stacked-autoencoder-pytorch  
 
 2. One can install some related packages by referring to requirements.txt  
@@ -15,7 +15,7 @@ https://github.com/ShayanPersonal/stacked-autoencoder-pytorch
 
 
 2. command: python train_SDAE_PHM.py -v -w .\dir_name\Model_Weight_Name.ph  
-    => One can evaluate the mode by the cmd, where weights of model should exist.  
+    => One can evaluate the model by the cmd, where weights of model should exist.  
 
 
 ## DataSet Description:   
