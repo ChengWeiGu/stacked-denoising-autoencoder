@@ -18,5 +18,9 @@ https://github.com/ShayanPersonal/stacked-autoencoder-pytorch
     => One can evaluate the mode by the cmd, where weights of model should exist.  
 
 
-## DataSet:   
-TBD
+## DataSet Description:   
+1. There are three classes of data: Normal, NG1 and NG2.  
+2. The data were measured from motor oscillation by a three-axis accelerator.  
+3. The x, y and z data were divided and saved under different folders.  
+4. Each data.csv contains about 60k ea points where measured time is 30 sec.  
+
