@@ -274,7 +274,7 @@ if __name__ == "__main__":
             
             #------------------------confusion matrix--------------------------#
         
-        if args.plot_freq > 1:
+        if args.plot_freq:
             
             model.load_state_dict(torch.load(args.weights))
             model.eval()
