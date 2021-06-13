@@ -10,11 +10,12 @@ https://github.com/ShayanPersonal/stacked-autoencoder-pytorch
 
 ## Run the model:  
 
-1. command: python train_SDAE_PHM.py -t  
+1. command: python train_SDCAE_PHM.py -t  
     => For PHM data, there are three classes: Normal, NG1 and NG2.  
+    => For MNIST data, by the cmd please: python train_SDCAE_MNIST.py -t  
 
 
-2. command: python train_SDAE_PHM.py -v -w .\dir_name\Model_Weight_Name.ph  
+2. command: python train_SDCAE_PHM.py -v -w .\dir_name\Model_Weight_Name.ph  
     => One can evaluate the model by the cmd, where weights of model should exist.  
 
 
