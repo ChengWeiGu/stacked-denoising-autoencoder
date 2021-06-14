@@ -123,7 +123,7 @@ if __name__ == "__main__":
     help_="show the spectrum in one dimension"
     parser.add_argument("-s","--spectrum",help=help_,action="store_true")
     
-    help_="do the normalize"
+    help_="normalize image data"
     parser.add_argument("-n","--normalize",help=help_,action="store_true")
     
     args=parser.parse_args()
