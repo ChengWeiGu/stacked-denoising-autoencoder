@@ -24,4 +24,6 @@ https://github.com/ShayanPersonal/stacked-autoencoder-pytorch
 2. The data were measured from motor oscillation by a three-axis accelerator.  
 3. The x, y and z data were divided and saved under different folders.  
 4. Each data.csv contains about 60k ea points where measured time is 30 sec.  
+  
 
+![image](https://github.com/ChengWeiGu/stacked-denoising-autoencoder/blob/main/results.jpg)  
