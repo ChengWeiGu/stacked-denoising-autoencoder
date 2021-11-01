@@ -26,4 +26,4 @@ https://github.com/ShayanPersonal/stacked-autoencoder-pytorch
 4. Each data.csv contains about 60k ea points where measured time is 30 sec.  
   
 
-![image](https://github.com/ChengWeiGu/stacked-denoising-autoencoder/blob/main/results.jpg)  
+![image](https://github.com/ChengWeiGu/stacked-denoising-autoencoder/blob/main/result.jpg)  
