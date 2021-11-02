@@ -330,8 +330,8 @@ if __name__ == "__main__":
                 orig = to_img_as_numpy(images.cpu().data)
                 pic = to_img_as_numpy(x_reconstructed.cpu().data)
                 
-                orig = orig[:,:32].ravel()
-                pic = pic[:,:32].ravel()
+                orig = orig[:,:64].ravel()
+                pic = pic[:,:64].ravel()
                 n = len(orig)
                 start_point = 20 # to avoid the strong peak near zero
                 plt.plot(range(start_point,n),orig[start_point:], label = 'origin', c = 'blue')
