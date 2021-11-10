@@ -1,0 +1,10 @@
+Name,wav,class,path_x
+20211027161347.csv,20211027161347.gif,Normal,./wav/train/Normal/x/20211027161347.csv
+20211027161423.csv,20211027161423.gif,Normal,./wav/train/Normal/x/20211027161423.csv
+20211027161457.csv,20211027161457.gif,Normal,./wav/train/Normal/x/20211027161457.csv
+20211027161636.csv,20211027161636.gif,Axes_NOT_Parallel,./wav/train/Axes_NOT_Parallel/x/20211027161636.csv
+20211027161710.csv,20211027161710.gif,Axes_NOT_Parallel,./wav/train/Axes_NOT_Parallel/x/20211027161710.csv
+20211027161745.csv,20211027161745.gif,Axes_NOT_Parallel,./wav/train/Axes_NOT_Parallel/x/20211027161745.csv
+20211027162038.csv,20211027162038.gif,Broken_Tooth,./wav/train/Broken_Tooth/x/20211027162038.csv
+20211027162112.csv,20211027162112.gif,Broken_Tooth,./wav/train/Broken_Tooth/x/20211027162112.csv
+20211027162745.csv,20211027162745.gif,Broken_Tooth,./wav/train/Broken_Tooth/x/20211027162745.csv
